@@ -1,2 +1,2 @@
-# rocket-paper-scisors
+# rock-paper-scisors
 Second project of The Odin Project
